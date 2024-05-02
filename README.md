@@ -9,6 +9,6 @@ Outside of the student life I am working on a little (yet big in terms of coding
 
 Reach me via email at markbuckle92@gmail.com
 
-Current Skills and Experience:
+## Skills and Experience:
 
 💻 HTML, CSS, JS
