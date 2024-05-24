@@ -8,4 +8,4 @@ Reach me via email at markbuckle92@gmail.com
 
 ## Skills and Experience
 
-💻 HTML, CSS, JS, TypeScript, React & WebFlow
+💻 HTML, CSS, JS, TypeScript, React, Angular & WebFlow
