@@ -9,7 +9,7 @@ Other things worth noting:
 
 - 🌱 Currently I am learning **Python**
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+- 👨‍💻 All of my projects are available at [Coming soon]
 
 - 💬 Ask me about **HTML, CSS, JS, TypeScript, React, Angular & WebFlow**
 
