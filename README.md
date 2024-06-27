@@ -1,5 +1,3 @@
-<img align="center" alt="Photo" src="./Photo.jpg"/>
-
 <h1 align="center">Good day, I'm Mark</h1>
 <h3 align="center">A passionate web developer in Canada</h3>
 
