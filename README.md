@@ -30,4 +30,4 @@ Other things worth noting:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=markbuckle&show_icons=true&locale=en&layout=compact" alt="markbuckle" /></p>
 
 <h3 align="center">This is what I think I look like while I am working:</h3>
-<img justify.content="center" alt="Photo" src="./Photo2.jpg" width="500" />
+<p><img align="center" alt="Photo2" src="./Photo2.jpg" width="500" /></p>
