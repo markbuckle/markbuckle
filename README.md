@@ -1,7 +1,7 @@
 <h1 align="center">Good day, I'm Mark</h1>
 <h3 align="center">A passionate web developer in Canada</h3>
 
-![Photo](Photo.jpg)
+<p align="center" width=350 ![Photo](Photo.jpg)>
   
 <p align="center">I am working on a Web App passion project; building a personalized health dashboard. This is a big endeavour for me but it's primarily where my inspiration to learn coding came from. I would love collaborate with other individuals who are also passionate about Healthcare innovation to help build this platform. Feel free to reach out if you are interested in getting involved.</p>
 
