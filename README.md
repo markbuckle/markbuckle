@@ -24,7 +24,7 @@ Other things worth noting:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=markbuckle&show_icons=true&locale=en&layout=compact" alt="markbuckle" /></p>
 
 
-<h3 align="center">This is what I think I look like while I am working:</h3>
+<h3 align="center">This is what I like to think I look like while I am working:</h3>
 <p align="center"><img alt="Photo2" src="./Photo2.jpg" width="700" /></p>
 
 <h3 align="center">Other ways to connect with me:</h3>
