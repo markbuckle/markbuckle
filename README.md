@@ -29,4 +29,4 @@ Other things worth noting:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=markbuckle&show_icons=true&locale=en&layout=compact" alt="markbuckle" /></p>
 
-<img align="center" alt="Photo" src="./Photo2.jpg" maxwidth="500" />
+<img align="center" alt="Photo" src="./Photo2.jpg" width="500" />
