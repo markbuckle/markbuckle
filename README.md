@@ -3,7 +3,7 @@
 
 <p align="center">I am working on a Web App passion project; building a personalized health dashboard. This is a big endeavour for me but it's primarily where my inspiration to learn coding came from. I would love collaborate with other individuals who are also passionate about Healthcare innovation to help build this platform. Feel free to reach out if you are interested in getting involved.</p>
 
-<img align="right" alt="Photo" src="./Photo.jpg" width="400" />
+<img align="right" alt="Photo" src="./Photo.jpg" width="350" />
 
 Other things worth noting:
 
@@ -16,11 +16,13 @@ Other things worth noting:
 - 📫 How to reach me **markbuckle92@gmail.com**
 
 
+
 <h3 align="left">Other ways to connect with me:</h3>
 
 <p align="left">
 <a href="https://instagram.com/barkmuckle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barkmuckle" height="30" width="40" /></a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
