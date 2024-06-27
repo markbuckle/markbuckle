@@ -3,7 +3,7 @@
 
 <p align="center">I am working on a Web App passion project; building a personalized health dashboard. This is a big endeavour for me but it's primarily where my inspiration to learn coding came from. I would love collaborate with other individuals who are also passionate about Healthcare innovation to help build this platform. Feel free to reach out if you are interested in getting involved.</p>
 
-<img align="right" alt="Photo" src="./Photo.jpg" width="300" />
+<img align="right" alt="Photo" src="./Photo.jpg" width="400" />
 
 Other things worth noting:
 
