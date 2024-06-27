@@ -12,7 +12,7 @@ Other things worth noting:
 
 - 📫 How to reach me **markbuckle92@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Other ways to connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/barkmuckle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barkmuckle" height="30" width="40" /></a>
 </p>
