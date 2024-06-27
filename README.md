@@ -14,15 +14,7 @@ Other things worth noting:
 - 💬 Ask me about **HTML, CSS, JS, TypeScript, React, Angular & WebFlow**
 
 - 📫 How to reach me **markbuckle92@gmail.com**
-
-
-<h3 align="center">Other ways to connect with me:</h3>
-
-<p align="center">
-<a href="https://instagram.com/barkmuckle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barkmuckle" height="30" width="40" /></a>
-</p>
-
-
+  
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -34,3 +26,9 @@ Other things worth noting:
 
 <h3 align="center">This is what I think I look like while I am working:</h3>
 <p align="center"><img alt="Photo2" src="./Photo2.jpg" width="500" /></p>
+
+<h3 align="center">Other ways to connect with me:</h3>
+
+<p align="center">
+<a href="https://instagram.com/barkmuckle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barkmuckle" height="30" width="40" /></a>
+</p>
