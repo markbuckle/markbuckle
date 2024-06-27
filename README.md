@@ -29,4 +29,5 @@ Other things worth noting:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=markbuckle&show_icons=true&locale=en&layout=compact" alt="markbuckle" /></p>
 
-<img align="center" alt="Photo" src="./Photo2.jpg" width="500" />
+<h3 align="center">This is what I think I look like while I am working:</h3>
+<img justify.content="center" alt="Photo" src="./Photo2.jpg" width="500" />
