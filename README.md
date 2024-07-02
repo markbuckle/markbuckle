@@ -7,7 +7,7 @@
 
 Other things worth noting:
 
-- 🌱 Currently I am learning **Python**
+- 🌱 Currently I am learning **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [Coming soon]
 
