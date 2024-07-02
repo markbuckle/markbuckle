@@ -11,7 +11,7 @@ Other things worth noting:
 
 - 👨‍💻 All of my projects are available at [Coming soon]
 
-- 💬 Ask me about **HTML, CSS, JS, TypeScript, React, Angular & WebFlow**
+- 💬 Ask me about **HTML, CSS, JS, TypeScript, Python, React, Angular & WebFlow**
 
 - 📫 How to reach me **markbuckle92@gmail.com**
   
