@@ -5,13 +5,15 @@
 <p align="center"> I'm currently working on a passion project: building a personalized health dashboard. This ambitious endeavor is what inspired me to dive into coding. I'm eager to collaborate with others who share a passion for healthcare innovation. If you're interested in contributing, feel free to reach out!</p>
 
 
-<h4 align="center">Other things worth noting:</h4>
-<ul align="center">
-  <li align="center">🌱 Currently learning <strong>CMS Systems</strong></li>
-  <li align="center">👨‍💻 All of my projects are available at <a href="https://marksportfolio.pages.dev/" target="_blank"><strong>my portfolio</strong></a></li>
-  <li align="center">💬 Proficient in <strong>HTML, CSS, JS, Python, React/Typescript & WebFlow</strong></li>
-  <li align="center">📫 Reach me at <strong>markbuckle92@gmail.com</strong></li>
-</ul>
+Other things worth noting:
+
+- 🌱 Currently I am learning **CMS Systems**
+
+- 👨‍💻 All of my projects are available at **https://marksportfolio.pages.dev/**
+
+- 💬 I'm intermediate with **HTML, CSS, JS, Python, React/Typescript & WebFlow**
+
+- 📫 Reach me at **markbuckle92@gmail.com**
   
 
 <h3 align="center">All languages and tools I use:</h3>
