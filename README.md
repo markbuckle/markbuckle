@@ -2,7 +2,7 @@
 <h3 align="center">A web developer in Canada</h3>
 
 
-<p align="center">I am working on a Web App passion project; building a personalized health dashboard. This is a big endeavour for me but it's primarily where my inspiration to learn coding came from. I would love collaborate with other individuals who are also passionate about Healthcare innovation to help build this platform. Feel free to reach out if you are interested in getting involved.</p>
+<p align="center"> I'm currently working on a passion project: building a personalized health dashboard. This ambitious endeavor is what inspired me to dive into coding. I'm eager to collaborate with others who share a passion for healthcare innovation. If you're interested in contributing, feel free to reach out!</p>
 
 
 Other things worth noting:
