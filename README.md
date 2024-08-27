@@ -7,10 +7,10 @@
 
 <h4 align="center">Other things worth noting:</h4>
 <ul align="center">
-  <li>🌱 Currently learning <strong>CMS Systems</strong></li>
-  <li>👨‍💻 All of my projects are available at <a href="https://marksportfolio.pages.dev/" target="_blank"><strong>my portfolio</strong></a></li>
-  <li>💬 Proficient in <strong>HTML, CSS, JS, Python, React/Typescript & WebFlow</strong></li>
-  <li>📫 Reach me at <strong>markbuckle92@gmail.com</strong></li>
+  <li align="center">🌱 Currently learning <strong>CMS Systems</strong></li>
+  <li align="center">👨‍💻 All of my projects are available at <a href="https://marksportfolio.pages.dev/" target="_blank"><strong>my portfolio</strong></a></li>
+  <li align="center">💬 Proficient in <strong>HTML, CSS, JS, Python, React/Typescript & WebFlow</strong></li>
+  <li align="center">📫 Reach me at <strong>markbuckle92@gmail.com</strong></li>
 </ul>
   
 
