@@ -9,7 +9,7 @@ Other things worth noting:
 
 - 🌱 Currently I am learning **PHP and MySQL**
 
-- 👨‍💻 All of my projects are available at [Coming soon]
+- 👨‍💻 All of my projects are available at **https://marksportfolio.pages.dev/**
 
 - 💬 I'm intermediate with **HTML, CSS, JS, Python, React/Typescript & WebFlow**
 
