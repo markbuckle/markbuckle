@@ -11,7 +11,7 @@ Other things worth noting:
 
 - 👨‍💻 All of my projects are available at [Coming soon]
 
-- 💬 I'm intermediate with **HTML, CSS, JS, TypeScript, Python, React, Angular & WebFlow**
+- 💬 I'm intermediate with **HTML, CSS, JS, Python, React/Typescript & WebFlow**
 
 - 📫 Reach me at **markbuckle92@gmail.com**
   
