@@ -1,7 +1,3 @@
-<h1 align="center">Good day, I'm Mark</h1>
-<h3 align="center">A web developer in Canada</h3>
-
-
 <p align="center"> I'm currently working on a passion project: building a personalized health dashboard. This ambitious endeavor is what inspired me to dive into coding. I'm eager to collaborate with others who share a passion for healthcare innovation. If you're interested in contributing, feel free to reach out!</p>
 
 
