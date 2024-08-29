@@ -5,7 +5,7 @@ Other things worth noting:
 
 - 🌱 Currently I am learning **Ruby on Rails** & **Content Management Systems (CMS)**
 
-- 💬 I'm intermediate with **HTML, CSS, JS, Python, React/Typescript & WebFlow**
+- 💬 I'm intermediate with **HTML, CSS, JavaScript, Python, React/Typescript & WebFlow**
 
 - 👨‍💻 All of my projects are available at **https://marksportfolio.pages.dev/**
 
