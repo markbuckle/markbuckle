@@ -3,7 +3,7 @@
 
 Other things worth noting:
 
-- 🌱 Currently I am learning **CMS Systems**
+- 🌱 Currently I am learning **Ruby on Rails** & **Content Management Systems (CMS)**
 
 - 💬 I'm intermediate with **HTML, CSS, JS, Python, React/Typescript & WebFlow**
 
