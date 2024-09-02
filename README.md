@@ -1,4 +1,6 @@
-<p>Hey, I'm Mark. I'm a Web Developer in Canada who is currently building a passion project: building a personalized health dashboard. This ambitious endeavor is what inspired me to dive into coding. I'm eager to collaborate with others who share a passion for healthcare innovation. If you're interested in contributing, feel free to reach out!</p>
+<h1>Hey, I'm Mark</h1>
+
+<p>I'm a Web Developer who is building a personalized health dashboard. This ambitious endeavor is what inspired me to dive into coding. I'm eager to collaborate with others who share a passion for healthcare innovation. If you're interested in contributing, feel free to reach out!</p>
 
 
 Other things worth noting:
