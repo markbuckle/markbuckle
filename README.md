@@ -7,7 +7,7 @@ Other things worth noting:
 
 - 🌱 Currently I am learning **C#, Wix & Content Management Systems (CMS)**
 
-- 💬 I'm intermediate with **HTML, CSS, Javascript, Python, React/Typescript, Ruby on Rails, & WebFlow**
+- 💬 I'm intermediate with **HTML, CSS, Javascript, Python, React/Typescript, Ruby on Rails, PHP/SQL & WebFlow**
 
 - 👨‍💻 All of my projects are available at **https://marksportfolio.pages.dev/**
 
