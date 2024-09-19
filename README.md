@@ -21,7 +21,3 @@ Other things worth noting:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=markbuckle&show_icons=true&locale=en&layout=compact&langs_count=12" alt="markbuckle" /></p>
 
 <h3 align="center">Other ways to connect with me:</h3>
-
-<p align="center">
-<a href="https://instagram.com/barkmuckle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barkmuckle" height="30" width="40" /></a>
-</p>
