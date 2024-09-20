@@ -1,17 +1,14 @@
 <h1>Hey, I'm Mark</h1>
 
-<p>I'm a Software Developer in Newfoundland, Canada. I am currently working on building a personalized health dashboard. I'm eager to collaborate with others who share a passion for healthcare innovation. If you're interested in contributing, feel free to reach out!</p>
+<p>I'm a Software Developer in Newfoundland, Canada.</p>
 
+🌱 Currently I am learning **C#, Microsoft Blazor, Liquid, Wix & Content Management Systems (CMS)**
 
-Other things worth noting:
+💬 I'm intermediate with **HTML, CSS, Javascript, Python, React/Typescript, Ruby on Rails, PHP/SQL, WebFlow & AWS**
 
-- 🌱 Currently I am learning **C#, Microsoft Blazor, Liquid, Wix & Content Management Systems (CMS)**
+👨‍💻 All of my projects are available at **https://marksportfolio.pages.dev/**
 
-- 💬 I'm intermediate with **HTML, CSS, Javascript, Python, React/Typescript, Ruby on Rails, PHP/SQL, WebFlow & AWS**
-
-- 👨‍💻 All of my projects are available at **https://marksportfolio.pages.dev/**
-
-- 📫 Reach me at **markbuckle92@gmail.com**<br></br>
+📫 Reach me at **markbuckle92@gmail.com**<br></br>
   
 
 <h3 align="center">All languages and tools I use:</h3>
