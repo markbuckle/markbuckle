@@ -2,9 +2,9 @@
 
 <p>I'm a Software Developer in Newfoundland, Canada.</p>
 
-🌱 Currently I am learning **Java, C#, Microsoft Blazor, Liquid, Wix & Content Management Systems (CMS)**
+🌱 Currently I am learning **Microsoft Blazor, Liquid, Wix & Content Management Systems (CMS)**
 
-💬 I'm intermediate with **HTML, CSS, Javascript, Python, React/Typescript, Ruby on Rails, PHP/SQL, WebFlow & AWS**
+💬 I'm intermediate with **HTML, CSS, Javascript, Java, C#, Python, React/Typescript, Ruby on Rails, PHP/SQL, WebFlow & AWS**
 
 👨‍💻 All of my projects are available at **https://marksportfolio.pages.dev/**
 
