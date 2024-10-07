@@ -4,7 +4,7 @@
 
 🌱 Currently I am learning **Databases & Content Management Systems (CMS)**
 
-💬 I'm intermediate with **HTML, CSS, Javascript, Java, C#, Python, React/Typescript, Ruby on Rails, PHP/SQL, WebFlow & AWS**
+💬 I'm intermediate with **HTML, CSS, Javascript, Java, C#, Python, React/Typescript, Ruby on Rails, WebFlow & AWS**
 
 👨‍💻 All of my projects are available at **https://marksportfolio.pages.dev/**
 
