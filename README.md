@@ -2,7 +2,7 @@
 
 <p>I'm a Software Developer in Newfoundland, Canada.</p>
 
-🌱 Currently I am learning **Databases & Content Management Systems (CMS)**
+🌱 Currently I am learning **R, Databases & Content Management Systems (CMS)**
 
 💬 I'm intermediate with **HTML, CSS, Javascript, Java, C#, Python, React/Typescript, Ruby on Rails, WebFlow & AWS**
 
