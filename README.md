@@ -1,10 +1,10 @@
 <h1>Mark Buckle's GitHub</h1>
-<br>
+
 <h2>About Me</h2>
 <p>I'm Mark Buckle, a dedicated developer with a passion for crafting robust full-stack solutions. My journey has taken me through the realms of healthcare databases and B2B SaaS.</p>
-<br>
+
 <h2>Skills</h2>
-<br>
+
 👨‍💻 Here's a snapshot of my skills:
 
 <li>Languages: HTML, CSS, Javascript, Typescript, Java, C#, Python, Ruby</li>
@@ -12,7 +12,7 @@
 <li>Databases: PostgreSQL, DynamoDB</li>
 <li>Cloud: AWS</li>
 <li>Industries: Medtech, , B2B SaaS</li>
-<br>
+
 🌱 Currently I am learning **R, Databases & Content Management Systems (CMS)**
 
 👨‍💻 All of my projects are available at **https://marksportfolio.pages.dev/**
