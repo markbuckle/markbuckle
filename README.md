@@ -12,13 +12,13 @@
 <li>Databases: PostgreSQL, DynamoDB</li>
 <li>Cloud: AWS</li>
 <li>Industries: Medtech, , B2B SaaS</li>
-<br>
+<p>
 🌱 Currently I am learning **R, Databases & Content Management Systems (CMS)**
-</br>
+
 👨‍💻 All of my projects are available at **https://marksportfolio.pages.dev/**
 
 📫 Reach me at **markbuckle92@gmail.com**<br></br>
-
+</p>
 
 <!-- <h3 align="center">All languages and tools I use:</h3>
 
