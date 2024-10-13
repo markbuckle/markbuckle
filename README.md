@@ -10,6 +10,7 @@
 <li>Languages: HTML, CSS, Javascript, Typescript, Java, C#, Python, Ruby</li>
 <li>Frameworks: React, Next.js</li>
 <li>Databases: PostgreSQL, DynamoDB</li>
+<li>AI integration: OpenAI, Claude</li>
 <li>Cloud: AWS</li>
 <li>Industries: Medtech, , B2B SaaS</li>
 <br>
