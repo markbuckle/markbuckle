@@ -12,8 +12,8 @@
 <li>Databases: PostgreSQL, DynamoDB</li>
 <li>Cloud: AWS</li>
 <li>Industries: Medtech, , B2B SaaS</li>
-<p>
-🌱 Currently I am learning **R, Databases & Content Management Systems (CMS)**
+
+<p>🌱 Currently I am learning **R, Databases & Content Management Systems (CMS)**
 
 👨‍💻 All of my projects are available at **https://marksportfolio.pages.dev/**
 
