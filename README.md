@@ -1,15 +1,24 @@
-<h1>Hey, I'm Mark</h1>
+<h1>Mark Buckle's GitHub</h1>
 
-<p>I'm a Software Developer in Newfoundland, Canada.</p>
+<h2>About Me</h2>
+<p>I'm Mark Buckle, a dedicated developer with a passion for crafting robust full-stack solutions. My journey has taken me through the realms of healthcare databases and B2B SaaS.</p>
+
+<h2>Skills</h2>
+
+👨‍💻 Here's a snapshot of my skills:
+
+<li>Languages: HTML, CSS, Javascript, Typescript, Java, C#, Python, Ruby</li>
+<li>Frameworks: React, Next.js</li>
+<li>Databases: PostgreSQL, DynamoDB</li>
+<li>Cloud: AWS</li>
+<li>Industries: Medtech, , B2B SaaS</li>
 
 🌱 Currently I am learning **R, Databases & Content Management Systems (CMS)**
-
-💬 I'm intermediate with **HTML, CSS, Javascript, Java, C#, Python, React/Typescript, Ruby on Rails, WebFlow & AWS**
 
 👨‍💻 All of my projects are available at **https://marksportfolio.pages.dev/**
 
 📫 Reach me at **markbuckle92@gmail.com**<br></br>
-  
+
 
 <!-- <h3 align="center">All languages and tools I use:</h3>
 
