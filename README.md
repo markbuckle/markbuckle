@@ -12,7 +12,7 @@
 <li>Databases: PostgreSQL, MongoDB, DynamoDB</li>
 <li>AI integration: OpenAI, Claude</li>
 <li>Cloud: AWS</li>
-<li>Industries: Medtech, , B2B SaaS, Cybersecurity</li>
+<li>Industries: Medtech, B2B SaaS, Cybersecurity</li>
 <br>
 
 👨‍💻 All of my projects are available at **https://marksportfolio.pages.dev/**
