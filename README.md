@@ -1,7 +1,7 @@
 <h1>Mark Buckle's GitHub</h1>
 
 <h2>About Me</h2>
-<p>I'm Mark Buckle, a dedicated developer with a passion for crafting robust full-stack solutions. My journey has taken me through the realms of healthcare database platforms and B2B SaaS solutions.</p>
+<p>I'm Mark Buckle, a dedicated developer with a passion for crafting robust full-stack solutions.</p>
 
 <h2>Skills</h2>
 
