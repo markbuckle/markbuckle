@@ -7,7 +7,7 @@
 
 👨‍💻 Here's a snapshot of my skills:
 
-<li>Languages: HTML, CSS, Javascript, Typescript, Python, Ruby, Java, C#</li>
+<li>Languages: HTML, Handlebars, CSS, Javascript, Typescript, Python, Ruby, Java, C#</li>
 <li>Frameworks: React, Next.js</li>
 <li>Databases: PostgreSQL, MongoDB, DynamoDB</li>
 <li>AI integration: OpenAI, Claude</li>
