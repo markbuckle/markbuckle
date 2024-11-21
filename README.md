@@ -15,7 +15,7 @@
 <li>Cloud: AWS</li>
 <br>
 
-👨‍💻 All of my projects are available at **https://marksportfolio.pages.dev/**
+👨‍💻 My portfolio: **https://marksportfolio.pages.dev/**
 
 📫 Reach me at **markbuckle92@gmail.com**<br></br>
 </p>
