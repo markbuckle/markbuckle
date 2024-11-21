@@ -5,7 +5,7 @@
 
 <h2>Skills</h2>
 
-👨‍💻 Here's a snapshot of my skills:
+Here's a snapshot of my skills:
 
 <li>Languages: HTML, Handlebars, CSS, Javascript, Typescript, Python, Ruby, Java, Scala, PHP, SQL, C#</li>
 <li>Frameworks: React, Next.js</li>
