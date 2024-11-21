@@ -11,7 +11,7 @@
 <li>Frameworks: React, Next.js</li>
 <li>Databases: PostgreSQL, MongoDB, DynamoDB</li>
 <li>AI integration: OpenAI, Claude</li>
-<li>Cybersecurity: SFTP, SSL, OAuth, JWT</li>
+<li>Cybersecurity: SFTP, OAuth, JWT</li>
 <li>Cloud: AWS</li>
 <br>
 
