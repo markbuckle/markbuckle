@@ -14,6 +14,7 @@ Here's a snapshot of my skills:
 <li>AI integration: OpenAI, Claude</li>
 <li>Cybersecurity: SFTP, OAuth, JWT</li>
 <li>Cloud: AWS</li>
+<li>Operating Systems: Windows, Linux</li>
 <br>
 
 👨‍💻 My portfolio: **https://marksportfolio.pages.dev/**
