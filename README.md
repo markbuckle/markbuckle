@@ -17,7 +17,7 @@ Here's a snapshot of my skills:
 <li>Operating Systems: Windows, Linux(Ubuntu)</li>
 <br>
 
-👨‍💻 My portfolio: **https://marksportfolio.pages.dev/**
+👨‍💻 My portfolio: **https://heyitsmark.pages.dev/**
 
 📫 Reach me at **markbuckle92@gmail.com**<br></br>
 </p>
