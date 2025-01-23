@@ -10,11 +10,11 @@ Here's a snapshot of my skills:
 <li>Languages: Javascript, TypeScript, HTML, Handlebars, CSS, Python, Java, Scala, Ruby, PHP, SQL, C#</li>
 <li>Frameworks: React, Next.js</li>
 <li>Databases: PostgreSQL, MongoDB, DynamoDB</li>
-<li>Containers: Dockerfile</li>
+<li>Containers: Dockerfile, Colima</li>
 <li>AI integration: OpenAI, Claude</li>
 <li>Cybersecurity: SFTP, OAuth, JWT</li>
 <li>Cloud: AWS</li>
-<li>Operating Systems: Windows, Linux (Ubuntu)</li>
+<li>Operating Systems: Windows, Linux (Ubuntu), Mac</li>
 <br>
 
 👨‍💻 My portfolio: **https://heyitsmark.pages.dev/**
