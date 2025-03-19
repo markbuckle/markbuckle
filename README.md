@@ -11,7 +11,7 @@ Here's a snapshot of my skills:
 <li>Frameworks: React, Next.js</li>
 <li>Databases: PostgreSQL, MongoDB, DynamoDB</li>
 <li>Containers: Docker, Colima</li>
-<li>AI integration: OpenAI, Claude</li>
+<li>AI integration: OpenAI, Anthropic, HuggingFace, Mistral</li>
 <li>Cybersecurity: SFTP, OAuth, JWT, Okta</li>
 <li>Cloud: AWS</li>
 <li>Operating Systems: Windows, Linux (Ubuntu), Mac</li>
