@@ -12,7 +12,7 @@ Here's a snapshot of my skills:
 <li>Databases: PostgreSQL, MongoDB, DynamoDB</li>
 <li>Containers: Dockerfile, Colima</li>
 <li>AI integration: OpenAI, Claude</li>
-<li>Cybersecurity: SFTP, OAuth, JWT</li>
+<li>Cybersecurity: SFTP, OAuth, JWT, Okta</li>
 <li>Cloud: AWS</li>
 <li>Operating Systems: Windows, Linux (Ubuntu), Mac</li>
 <br>
