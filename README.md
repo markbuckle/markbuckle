@@ -7,7 +7,8 @@
 
 Here's a snapshot of my skills:
 
-<li>Languages: Javascript, TypeScript, HTML, Handlebars, CSS, Python, Java, Scala, Ruby, PHP, SQL, C#</li>
+<li>Languages: Javascript, TypeScript, HTML, Handlebars, CSS, Python, Java, Scala, PHP, SQL</li>
+<li>Design: Figma, Adobe Creative Suite</li>
 <li>Frameworks: React, Next.js</li>
 <li>Databases: PostgreSQL, MongoDB, DynamoDB</li>
 <li>Containers: Docker, Colima</li>
