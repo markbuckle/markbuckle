@@ -1,11 +1,9 @@
 <h1>Mark Buckle's GitHub</h1>
 
 <h2>About Me</h2>
-<p>I'm Mark Buckle, a designer & developer passionate about building meaningful products</p>
+<p>I'm Mark Buckle, a designer & developer passionate about building meaningful products.</p>
 
 <h2>Skills</h2>
-
-Here's a snapshot of my skills:
 
 <li>Languages: Javascript, TypeScript, HTML, Handlebars, CSS, Python, Java, Scala, PHP, SQL</li>
 <li>Design: Figma, Adobe Creative Suite</li>
