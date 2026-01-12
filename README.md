@@ -12,7 +12,7 @@
 <li>Containers: Docker, Colima</li>
 <li>AI integration: OpenAI, Anthropic, HuggingFace, Mistral</li>
 <li>Cybersecurity: SFTP, OAuth, JWT, Okta</li>
-<li>Cloud: AWS</li>
+<li>Cloud: AWS, GCP</li>
 <li>Operating Systems: Windows, Linux (Ubuntu), Mac</li>
 <br>
 
