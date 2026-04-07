@@ -6,13 +6,14 @@
 <h2>Skills</h2>
 
 <li>Languages: Javascript, TypeScript, HTML, Handlebars, CSS, Python, Java, Scala, PHP, SQL</li>
-<li>Design: Figma, Adobe Creative Suite</li>
+<li>Design: Figma, Adobe Creative Suite, Nano Banana</li>
 <li>Frameworks: React, Next.js</li>
 <li>Databases: PostgreSQL, MongoDB, DynamoDB</li>
 <li>Containers: Docker, Colima</li>
-<li>AI integration: OpenAI, Anthropic, HuggingFace, Mistral</li>
+<li>AI integration: Anthropic, Gemini, OpenAI, HuggingFace, Mistral</li>
 <li>Cybersecurity: SFTP, OAuth, JWT, Okta</li>
 <li>Cloud: AWS, GCP</li>
+<li>Mobile: React-Native, Expo</li>
 <li>Operating Systems: Windows, Linux (Ubuntu), Mac</li>
 <br>
 
