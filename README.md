@@ -1,7 +1,7 @@
 <h1>Mark Buckle's GitHub</h1>
 
 <h2>About Me</h2>
-<p>I'm Mark Buckle, a designer & developer passionate about building meaningful products.</p>
+<p>I like to build things that make a difference.</p>
 
 <h2>Skills</h2>
 
