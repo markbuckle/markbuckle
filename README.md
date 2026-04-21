@@ -1,7 +1,7 @@
 <h1>Mark Buckle's GitHub</h1>
 
 <h2>About Me</h2>
-<p>I like to build things that make a difference.</p>
+<p>I like to build.</p>
 
 <h2>Skills</h2>
 
