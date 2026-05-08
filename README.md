@@ -17,7 +17,7 @@
 <li>Operating Systems: Windows, Linux (Ubuntu), Mac</li>
 <br>
 
-👨‍💻 [My portfolio](https://heyitsmark.pages.dev/)
+👨‍💻 [My portfolio](https://markmade.pages.dev/)
 
 📫 Reach me at **markbuckle92@gmail.com**<br></br>
 </p>
