@@ -6,14 +6,15 @@
 <h2>Skills</h2>
 
 <li>Languages: Javascript, TypeScript, HTML, Handlebars, CSS, Python, Java, Scala, PHP, SQL</li>
-<li>Design: Claude, Figma, Adobe Creative Suite, Nano Banana</li>
-<li>Frameworks: React, Next.js, office.js</li>
+<li>Design: Claude Design, Figma, Adobe Creative Suite, Nano Banana</li>
+<li>Frameworks: React, Next.js, Office.js</li>
 <li>Databases: PostgreSQL, MongoDB, DynamoDB</li>
 <li>Containers: Docker, Colima</li>
 <li>AI integration: Anthropic, Gemini, OpenAI, HuggingFace, Mistral</li>
 <li>Cybersecurity: SFTP, OAuth, JWT, Okta</li>
 <li>Cloud: AWS, GCP</li>
 <li>Infrastructure: Terraform</li>
+<li>API: REST, FastAPI, GraphQL</li>
 <li>Mobile: React-Native, Expo</li>
 <li>Operating Systems: Windows, Linux (Ubuntu), Mac</li>
 <br>
