@@ -5,8 +5,8 @@
 
 <h2>Skills</h2>
 
-<li>Languages: Javascript, TypeScript, HTML, Handlebars, CSS, Python, Java, Scala, PHP, SQL</li>
 <li>Design: Claude Design, Figma, Adobe Creative Suite, Nano Banana</li>
+<li>Languages: Javascript, TypeScript, HTML, Handlebars, CSS, Python, Java, Scala, PHP, SQL</li>
 <li>Frameworks: React, Next.js, Office.js</li>
 <li>Databases: PostgreSQL, MongoDB, DynamoDB</li>
 <li>Containers: Docker, Colima</li>
