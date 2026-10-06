@@ -1,7 +1,7 @@
 <h1>Mark Buckle's GitHub</h1>
 
 <h2>About Me</h2>
-<p>I like to build.</p>
+<p>I like making complex tools feel simple while looking slick.</p>
 
 <h2>Skills</h2>
 
