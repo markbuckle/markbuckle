@@ -10,7 +10,7 @@
 <li>Frameworks: React, Next.js, Office.js</li>
 <li>Databases: PostgreSQL, MongoDB, DynamoDB</li>
 <li>Containers: Docker, Colima</li>
-<li>AI integration: Anthropic, Gemini, OpenAI, HuggingFace, Mistral</li>
+<li>AI integration: Anthropic, Kiro, Gemini, OpenAI, HuggingFace, Mistral</li>
 <li>Cybersecurity: SFTP, OAuth, JWT, Okta</li>
 <li>Cloud: AWS, GCP</li>
 <li>Infrastructure: Terraform</li>
